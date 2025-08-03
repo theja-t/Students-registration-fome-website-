@@ -226,3 +226,4 @@ Works on mobile and desktop.
 # Confirmation Message: 
 
 Displays a success message after submission.
+![ai_anime_2 o-20250803-0001](https://github.com/user-attachments/assets/5f41dc05-82e8-4e9e-b4db-5a12ee8c7a74)
